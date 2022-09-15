@@ -1,4 +1,4 @@
-# Appwrite adapter for AppWrite
+# Appwrite adapter for Lucia
 
 > This is a community supported and cannot be guaranteed to work with the latest version of Lucia
 
